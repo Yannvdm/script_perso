@@ -1,4 +1,7 @@
 # Comment utiliser le programme ?
+Vidéo Youtube :
+https://youtu.be/iNS-6usUOLc
+
 ## 1. Lancement du programme
 Dans votre terminal, exécutez le programme en tapant :
 ```
