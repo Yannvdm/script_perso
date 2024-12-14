@@ -1,0 +1,11 @@
+product_id,product_name,quantity,price,département
+1,Apple,150,0.5,C:\Users\Yanne\OneDrive - EPHEC asbl\2ème\Dev\script_perso\inventory_manager\src\data1
+2,Banana,200,0.3,C:\Users\Yanne\OneDrive - EPHEC asbl\2ème\Dev\script_perso\inventory_manager\src\data1
+3,Carrot,100,0.7,C:\Users\Yanne\OneDrive - EPHEC asbl\2ème\Dev\script_perso\inventory_manager\src\data1
+4,Tomato,50,1.2,C:\Users\Yanne\OneDrive - EPHEC asbl\2ème\Dev\script_perso\inventory_manager\src\data1
+5,Potato,300,0.2,C:\Users\Yanne\OneDrive - EPHEC asbl\2ème\Dev\script_perso\inventory_manager\src\data1
+6,Peer,150,0.5,C:\Users\Yanne\OneDrive - EPHEC asbl\2ème\Dev\script_perso\inventory_manager\src\data2
+2,Apple,200,0.3,C:\Users\Yanne\OneDrive - EPHEC asbl\2ème\Dev\script_perso\inventory_manager\src\data2
+3,Carrot,100,0.7,C:\Users\Yanne\OneDrive - EPHEC asbl\2ème\Dev\script_perso\inventory_manager\src\data2
+8,Salad,50,1.2,C:\Users\Yanne\OneDrive - EPHEC asbl\2ème\Dev\script_perso\inventory_manager\src\data2
+7,Pumpkin,300,0.2,C:\Users\Yanne\OneDrive - EPHEC asbl\2ème\Dev\script_perso\inventory_manager\src\data2
